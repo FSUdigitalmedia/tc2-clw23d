@@ -33,6 +33,6 @@ function setup() {
     
   //emojis
     textSize(50)
-    text("🦅", mouseX, mouseY) //flower
-    text("🐿️", 160, 325) //ladybug
+    text("🦅", mouseX, mouseY) //eagle
+    text("🐿️", 160, 325) //chipmunk
   }
